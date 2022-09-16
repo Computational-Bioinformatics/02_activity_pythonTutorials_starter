@@ -1,6 +1,7 @@
 # Bioinformatics (CMPSC 300) Activity 2
 
-This repository contains information about Bioinformatics activity 2 deliverables. This assignment invites students to follow a tutorial to investigate BioPython and to write code to run experiments.
+This repository contains information about Bioinformatics activity 2 deliverables.
+This assignment invites students to follow a tutorial to investigate BioPython and to write code to run experiments.
 
 ## Dates
 
