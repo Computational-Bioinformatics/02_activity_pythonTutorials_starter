@@ -3,12 +3,6 @@
 This repository contains information about Bioinformatics activity 2 deliverables.
 This assignment invites students to follow a tutorial to investigate BioPython and to write code to run experiments.
 
-## Dates
-
-Handed out: 16 Sept 2022
-
-Due: 16 Sept 2022
-
 ## Objectives
 
 - To follow a tutorial to learn the coded techniques behind simple bioinformatics experiments.
